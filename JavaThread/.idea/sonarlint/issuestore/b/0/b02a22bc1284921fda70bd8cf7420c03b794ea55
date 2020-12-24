@@ -1,0 +1,12 @@
+
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(‚Õ—¯ÿÿÿÿÿ8ð¾þæ´.
+Xsquid:S1161 ":Add the "@Override" annotation above this method signature(“–ýþ8ƒï¥ç´.
+~squid:S12172"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(¯ôôÈ8”Úéç´.
+}squid:S12177"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(ÛãÒ(8³—Çç´.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ò˜žç´.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µï²ñ8Ì÷«ç´.
+Xsquid:S1161":Add the "@Override" annotation above this method signature(“–ýþ8¦“¦ç´.
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‡–²ç´.
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ËÔ°ç´.

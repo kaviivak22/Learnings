@@ -1,0 +1,12 @@
+
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄïÂ¸üÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò”çÌýÿÿÿÿ
+]squid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(Þ²ÌÈþÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(þ›ÀÏ
